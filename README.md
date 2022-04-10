@@ -1,2 +1,3 @@
-# huidt.github.io
-huidt's blog
+# 关于
+
+你好，我叫田会东，目前是一名前端工程师，就职于美团。

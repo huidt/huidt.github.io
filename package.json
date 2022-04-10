@@ -1,0 +1,22 @@
+{
+  "name": "huidt.github.io",
+  "version": "1.0.0",
+  "description": "huidt's blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huidt/huidt.github.io.git"
+  },
+  "author": "huidt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huidt/huidt.github.io/issues"
+  },
+  "homepage": "https://github.com/huidt/huidt.github.io#readme",
+  "dependencies": {
+    "hexo-cli": "^4.3.0"
+  }
+}
